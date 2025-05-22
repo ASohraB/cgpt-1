@@ -44,3 +44,22 @@ python src/main.py
 ## Overview
 
 This project is designed to provide a simple yet effective implementation of a small GPT model using complex numbers.
+
+## Citation
+
+If you use this work in your research, please cite it using one of the following formats.
+
+### BibTeX
+```bibtex
+@model{cgpt-1,
+  author       = {Sohrabi, Ahmad},
+  title        = {CGPT-1: A Custom GPT Model Implementation},
+  month        = {May},
+  year         = {2025},
+  publisher    = {GitHub},
+  doi          = {https://github.com/ASohraB/cgpt-1}
+}
+```
+
+### APA
+Sohrabi, A. (2025). *CGPT-1: A custom GPT model implementation* [Model]. GitHub. https://github.com/ASohraB/cgpt-1.
